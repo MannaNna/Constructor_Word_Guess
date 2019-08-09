@@ -1,0 +1,23 @@
+{
+  "name": "constructor_word_guess",
+  "version": "1.0.0",
+  "description": "Word_Guess_Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MannaNna/Constructor_Word_Guess.git"
+  },
+  "author": "Mariana Secu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MannaNna/Constructor_Word_Guess/issues"
+  },
+  "homepage": "https://github.com/MannaNna/Constructor_Word_Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "prompts": "^2.2.1"
+  }
+}
